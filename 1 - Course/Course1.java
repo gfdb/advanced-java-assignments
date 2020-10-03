@@ -11,6 +11,7 @@ public class Course1 {
 		Course course2 = new Course("COMP248", 3.5, "A+");
 		Course course3 = new Course("MATH232", 3.0, "B");
 		Course course4 = new Course("MATH123", 4.0, "B+");
+		Course course5 = new Course("MATH666", 2.7, "B-");
 		// calling the toString method to return the string values and then print them
 		System.out.println(course2.toString());
 		System.out.println(course3.toString());
